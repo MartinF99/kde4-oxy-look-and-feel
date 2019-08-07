@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=KDE 4 theme using the kde 4 oxygen style
+Name=Oxygen kde 4\s
+X-KDE-PluginInfo-Author=Martin Fritz
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=Fritz.Martin99@web.de
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL 2.1+
+X-KDE-PluginInfo-Name=kde4-oxy-look-and-feel
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=github.com/MartinF99/kde4-oxy-look-and-feel
+X-KDE-ServiceTypes=Plasma/LookAndFeel
