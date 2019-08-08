@@ -10,3 +10,4 @@ X-KDE-PluginInfo-Name=kde4-oxy-look-and-feel
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=github.com/MartinF99/kde4-oxy-look-and-feel
 X-KDE-ServiceTypes=Plasma/LookAndFeel
+XKPackage-Dependencies=kns://plasma-themes.knsrc/api.kde-look.org/1310894

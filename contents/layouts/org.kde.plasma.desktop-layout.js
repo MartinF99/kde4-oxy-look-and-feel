@@ -6,13 +6,19 @@ var layout = {
             "applets": [
                 {
                     "config": {
+                        "/": {
+                            "formfactor": "0",
+                            "immutability": "1",
+                            "lastScreen": "-1",
+                            "wallpaperplugin": ""
+                        }
                     },
-                    "geometry.height": 29,
-                    "geometry.width": 32,
-                    "geometry.x": 66,
-                    "geometry.y": 2,
-                    "plugin": "org.kde.plasma.analogclock",
-                    "title": "Analogue Clock"
+                    "geometry.height": 39,
+                    "geometry.width": 52,
+                    "geometry.x": 8,
+                    "geometry.y": 13,
+                    "plugin": "org.kde.plasma.folder",
+                    "title": "Desktop Folder"
                 }
             ],
             "config": {
@@ -67,6 +73,14 @@ var layout = {
                         }
                     },
                     "plugin": "org.kde.plasma.kickoff"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.showActivityManager"
                 },
                 {
                     "config": {
